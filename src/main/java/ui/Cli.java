@@ -1,10 +1,10 @@
 package ui;
 
-import dataaccess.DatabaseException;
+import exceptions.DatabaseException;
 import dataaccess.MyCourseRepository;
 import domain.Course;
 import domain.CourseType;
-import domain.InvalidValueException;
+import exceptions.InvalidValueException;
 
 import java.sql.Date;
 import java.util.List;

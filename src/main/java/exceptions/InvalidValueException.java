@@ -1,4 +1,4 @@
-package domain;
+package exceptions;
 
 public class InvalidValueException extends RuntimeException {
     public InvalidValueException(String message) {

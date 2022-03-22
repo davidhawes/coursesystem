@@ -1,4 +1,6 @@
 package domain;
+import exceptions.InvalidValueException;
+
 import java.sql.Date;
 
 public class Course extends BaseEntity {

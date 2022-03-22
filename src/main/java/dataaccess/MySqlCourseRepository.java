@@ -2,6 +2,7 @@ package dataaccess;
 
 import domain.Course;
 import domain.CourseType;
+import exceptions.DatabaseException;
 import util.Assert;
 
 import java.sql.*;
@@ -123,7 +124,6 @@ public class MySqlCourseRepository implements MyCourseRepository{
 
     @Override
     public Optional<Course> update(Course entity) {
-
 
         Assert.notNull(entity);
 

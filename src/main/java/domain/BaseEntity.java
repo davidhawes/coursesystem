@@ -1,5 +1,7 @@
 package domain;
 
+import exceptions.InvalidValueException;
+
 public abstract class BaseEntity {
     private Long id;
 
