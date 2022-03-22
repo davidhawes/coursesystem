@@ -1,4 +1,7 @@
 # JBDC und DAO
+
+### Commits Dokumentieren jeden einzelnen Schritt
+
 ![Screenshot_1284](https://user-images.githubusercontent.com/83290245/159562250-f929d915-34c5-4969-a129-6c16822788c9.png)
 ![Screenshot_1285](https://user-images.githubusercontent.com/83290245/159562255-7d3c9644-ed8a-4c8a-aac1-e9c7447a1689.png)
 ![Screenshot_1286](https://user-images.githubusercontent.com/83290245/159562264-998f81ce-0a14-42ff-ad1e-2ff7d0503006.png)
